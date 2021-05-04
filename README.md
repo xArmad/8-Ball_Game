@@ -10,7 +10,7 @@
 
 <b>Built with</b>
 - [VS Code](https://code.visualstudio.com/)
-- In C++
+- With C++
 
 #### Modification
 - You can fork project and modify the code as much as you want
