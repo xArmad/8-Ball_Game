@@ -12,6 +12,10 @@
 - [VS Code](https://code.visualstudio.com/)
 - With C++
 
+#### How to Run
+`g++ app.cpp`
+`./a.out`
+
 #### Modification
 - You can fork project and modify the code as much as you want
 - To get different responses, modify the answers.h file, avaliable comments will guide you.
