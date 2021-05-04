@@ -13,7 +13,8 @@
 - With C++
 
 #### How to Run
-- Enter these prompts in terminal:
+
+Enter these commands in terminal:
 ```sh
 g++ app.cpp
 ./a.out
