@@ -13,8 +13,9 @@
 - With C++
 
 #### How to Run
-`g++ app.cpp`
-`./a.out`
+- Enter these prompts in terminal:
+- `g++ app.cpp`
+- `./a.out`
 
 #### Modification
 - You can fork project and modify the code as much as you want
