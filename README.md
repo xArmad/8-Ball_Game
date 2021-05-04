@@ -14,9 +14,10 @@
 
 #### How to Run
 - Enter these prompts in terminal:
-- `g++ app.cpp`
-- `./a.out`
-
+```sh
+g++ app.cpp
+./a.out`
+```
 #### Modification
 - You can fork project and modify the code as much as you want
 - To get different responses, modify the answers.h file, avaliable comments will guide you.
