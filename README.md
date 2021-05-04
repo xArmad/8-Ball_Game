@@ -16,7 +16,7 @@
 - Enter these prompts in terminal:
 ```sh
 g++ app.cpp
-./a.out`
+./a.out
 ```
 #### Modification
 - You can fork project and modify the code as much as you want
