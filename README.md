@@ -13,9 +13,14 @@
 - With C++
 
 
-#### How to Run
+#### How to Install/Run
 
-Enter these commands in terminal:
+To install app locally:
+```sh
+git clone https://github.com/xArmad/8-Ball_Game/
+```
+
+Enter these commands in terminal to run:
 ```sh
 g++ app.cpp
 ./a.out
